@@ -14,3 +14,5 @@ C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\refint\tallergit
 C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.pdb
 C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.genruntimeconfig.cache
 C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\ref\tallergit.dll
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.Properties.Resources.resources
+C:\tallergit\sistema-escolar\tallergit\obj\Debug\net8.0-windows\tallergit.sourcelink.json
