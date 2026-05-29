@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tallergit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3064d3b01e511ad6bce57f7d4e324c0b01dac1fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6dae6849599539ae1381413f8d63e22351dca6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("tallergit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tallergit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
